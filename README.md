@@ -4,5 +4,7 @@
 Convolutional neural network from scratch using NumPy.
 
 ## Architecture
-
 ![LeNet 5](https://i.imgur.com/TtGiXI2.png)
+
+## LICENSE
+[Apache-2.0](LICENSE)
